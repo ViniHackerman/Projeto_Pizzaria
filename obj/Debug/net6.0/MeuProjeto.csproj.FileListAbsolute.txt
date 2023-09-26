@@ -73,3 +73,18 @@ C:\Users\vasconcelos_igor\Downloads\Projeto_Pizza-main\Projeto_Pizza-main\obj\De
 C:\Users\vasconcelos_igor\Downloads\Projeto_Pizza-main\Projeto_Pizza-main\obj\Debug\net6.0\MeuProjeto.pdb
 C:\Users\vasconcelos_igor\Downloads\Projeto_Pizza-main\Projeto_Pizza-main\obj\Debug\net6.0\MeuProjeto.genruntimeconfig.cache
 C:\Users\vasconcelos_igor\Downloads\Projeto_Pizza-main\Projeto_Pizza-main\obj\Debug\net6.0\ref\MeuProjeto.dll
+C:\Users\vinic\Downloads\Projeto_Pizza-main (2)\Projeto_Pizza-main\bin\Debug\net6.0\MeuProjeto.exe
+C:\Users\vinic\Downloads\Projeto_Pizza-main (2)\Projeto_Pizza-main\bin\Debug\net6.0\MeuProjeto.deps.json
+C:\Users\vinic\Downloads\Projeto_Pizza-main (2)\Projeto_Pizza-main\bin\Debug\net6.0\MeuProjeto.runtimeconfig.json
+C:\Users\vinic\Downloads\Projeto_Pizza-main (2)\Projeto_Pizza-main\bin\Debug\net6.0\MeuProjeto.dll
+C:\Users\vinic\Downloads\Projeto_Pizza-main (2)\Projeto_Pizza-main\bin\Debug\net6.0\MeuProjeto.pdb
+C:\Users\vinic\Downloads\Projeto_Pizza-main (2)\Projeto_Pizza-main\obj\Debug\net6.0\MeuProjeto.csproj.AssemblyReference.cache
+C:\Users\vinic\Downloads\Projeto_Pizza-main (2)\Projeto_Pizza-main\obj\Debug\net6.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Downloads\Projeto_Pizza-main (2)\Projeto_Pizza-main\obj\Debug\net6.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\vinic\Downloads\Projeto_Pizza-main (2)\Projeto_Pizza-main\obj\Debug\net6.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\vinic\Downloads\Projeto_Pizza-main (2)\Projeto_Pizza-main\obj\Debug\net6.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Downloads\Projeto_Pizza-main (2)\Projeto_Pizza-main\obj\Debug\net6.0\MeuProjeto.dll
+C:\Users\vinic\Downloads\Projeto_Pizza-main (2)\Projeto_Pizza-main\obj\Debug\net6.0\refint\MeuProjeto.dll
+C:\Users\vinic\Downloads\Projeto_Pizza-main (2)\Projeto_Pizza-main\obj\Debug\net6.0\MeuProjeto.pdb
+C:\Users\vinic\Downloads\Projeto_Pizza-main (2)\Projeto_Pizza-main\obj\Debug\net6.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\vinic\Downloads\Projeto_Pizza-main (2)\Projeto_Pizza-main\obj\Debug\net6.0\ref\MeuProjeto.dll

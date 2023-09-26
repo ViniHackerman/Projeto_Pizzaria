@@ -6,12 +6,14 @@ class Pizza
     public string Nome { get; set; }
     public List<string> Sabores { get; set; }
     public decimal Preco { get; set; }
+    public string TelefoneCliente { get; set; } 
 
-    public Pizza(string nome, List<string> sabores, decimal preco)
+    public Pizza(string nome, List<string> sabores, decimal preco, string telefoneCliente)
     {
         Nome = nome;
         Sabores = sabores;
         Preco = preco;
+        TelefoneCliente = telefoneCliente; 
     }
 }
 
@@ -54,7 +56,9 @@ class Program
         }
     }
 
-    static void CriarPizza()
+   static void CriarPizza()
+{
+    do
     {
         Console.WriteLine("Digite o nome da pizza:");
         string nomePizza = Console.ReadLine();
@@ -67,15 +71,27 @@ class Program
         decimal preco;
         if (decimal.TryParse(Console.ReadLine(), out preco))
         {
-            Pizza pizza = new Pizza(nomePizza, sabores, preco);
+            Console.WriteLine("Digite o telefone do cliente:");
+            string telefoneCliente = Console.ReadLine();
+
+            Pizza pizza = new Pizza(nomePizza, sabores, preco, telefoneCliente);
             listaDePizzas.Add(pizza);
             Console.WriteLine($"Pizza '{pizza.Nome}' adicionada com sucesso!");
+
+            Console.WriteLine("Deseja adicionar outra pizza? (1 para Sim, 2 para Não)");
+            int escolha;
+            if (int.TryParse(Console.ReadLine(), out escolha) && escolha == 2)
+            {
+                break; 
+            }
         }
         else
         {
             Console.WriteLine("Preço inválido. A pizza não foi adicionada.");
         }
-    }
+    } while (true);
+}
+
 
     static void ListarPizzas()
     {
@@ -89,6 +105,7 @@ class Program
                 Console.WriteLine($"- {sabor}");
             }
             Console.WriteLine($"Preço: R${pizza.Preco}");
+            Console.WriteLine($"Telefone do Cliente: {pizza.TelefoneCliente}"); 
             Console.WriteLine();
         }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\vinic\\Downloads\\Projeto_Pizza-main (2)\\Projeto_Pizza-main\\MeuProjeto.csproj": {}
+    "C:\\Users\\vinic\\Downloads\\Projeto_Pizza-main (2)\\Projeto_Pizza-main\\MeuProjeto.csproj": {}
   },
   "projects": {
-    "c:\\Users\\vinic\\Downloads\\Projeto_Pizza-main (2)\\Projeto_Pizza-main\\MeuProjeto.csproj": {
+    "C:\\Users\\vinic\\Downloads\\Projeto_Pizza-main (2)\\Projeto_Pizza-main\\MeuProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\vinic\\Downloads\\Projeto_Pizza-main (2)\\Projeto_Pizza-main\\MeuProjeto.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\Downloads\\Projeto_Pizza-main (2)\\Projeto_Pizza-main\\MeuProjeto.csproj",
         "projectName": "MeuProjeto",
-        "projectPath": "c:\\Users\\vinic\\Downloads\\Projeto_Pizza-main (2)\\Projeto_Pizza-main\\MeuProjeto.csproj",
+        "projectPath": "C:\\Users\\vinic\\Downloads\\Projeto_Pizza-main (2)\\Projeto_Pizza-main\\MeuProjeto.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\vinic\\Downloads\\Projeto_Pizza-main (2)\\Projeto_Pizza-main\\obj\\",
+        "outputPath": "C:\\Users\\vinic\\Downloads\\Projeto_Pizza-main (2)\\Projeto_Pizza-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config"
